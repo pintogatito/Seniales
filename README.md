@@ -4,4 +4,5 @@ En el notebook que se encuentra alojado en este repositorio se abarca las partes
 
 ## Integrantes del equipo
 Erick Larios Vega
+
 Carlos Ivan Reyes Sanchez
